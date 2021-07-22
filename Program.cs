@@ -10,6 +10,7 @@ namespace ProgramTwo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World Guyss!");
+            Console.WriteLine("Hello World Guyss2!");
         }
     }
 }
